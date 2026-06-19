@@ -1,0 +1,11 @@
+{
+  "exp_id": "EXP19_WEIGHTS",
+  "timestamp": "2026-06-19 20:10",
+  "metrics": {
+    "FetalCLIP": "MANQUANT",
+    "LeJEPA": "MANQUANT",
+    "I-JEPA": "MANQUANT",
+    "DINOv2": "OK"
+  },
+  "notes": "Telechargement poids modeles fondation foetaux"
+}
