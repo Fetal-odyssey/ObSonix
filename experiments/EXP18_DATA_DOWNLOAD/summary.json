@@ -1,0 +1,14 @@
+{
+  "exp_id": "EXP18_DATA_DOWNLOAD",
+  "timestamp": "2026-06-19 20:09",
+  "metrics": {
+    "total_fichiers": 27689,
+    "FETAL_PLANES_DB": 12404,
+    "HC18": 2337,
+    "IUGC2024": 10227,
+    "JNU_IFM": 1,
+    "PSFHS": 2717,
+    "old": 3
+  },
+  "notes": "Telechargement 5 datasets open data foetaux -> Google Drive"
+}
