@@ -1,0 +1,16 @@
+# EXP14_DAPT_LeJEPA
+*2026-06-20 22:42*
+
+## Metriques
+| Metrique | Valeur |
+|---|---|
+| init | LeJEPA (in-domain) |
+| corpus_images | 12400 |
+| epochs | 50 |
+| mask_ratio | 0.55 |
+| final_loss | 0.0002 |
+| best_loss | 0.0002 |
+| poids | exp14_dapt_lejepa_best.pth |
+
+## Notes
+DAPT I-JEPA masque sur FETAL_PLANES_DB, init=LeJEPA (in-domain). Contexte=patches visibles, predicteur a requetes positionnelles, cibles EMA. Runs LeJEPA vs IN1K sauvegardes separement (exp_id + poids tagues).
