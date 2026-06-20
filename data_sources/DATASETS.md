@@ -1,6 +1,6 @@
 # data_sources - Provenance des datasets OBSonix
 
-*Genere 2026-06-20 08:11*
+*Genere 2026-06-20 17:13*
 
 > Ce dossier **ne redistribue pas les images brutes** (limites de taille GitHub et respect des licences). Il documente la **provenance**, les **licences**, les **citations** et renvoie au **script de telechargement** (EXP-18). Pour un miroir redistribuable des datasets CC BY, utiliser Zenodo ou HuggingFace Datasets.
 
