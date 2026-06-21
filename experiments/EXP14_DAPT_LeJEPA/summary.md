@@ -1,5 +1,5 @@
 # EXP14_DAPT_LeJEPA
-*2026-06-20 22:42*
+*2026-06-21 11:14*
 
 ## Metriques
 | Metrique | Valeur |
@@ -8,8 +8,8 @@
 | corpus_images | 12400 |
 | epochs | 50 |
 | mask_ratio | 0.55 |
-| final_loss | 0.0002 |
-| best_loss | 0.0002 |
+| final_loss | 0.0003 |
+| best_loss | 0.0003 |
 | poids | exp14_dapt_lejepa_best.pth |
 
 ## Notes
