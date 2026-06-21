@@ -1,12 +1,12 @@
 # EXP19B_LEJEPA_PRETRAIN
-*2026-06-20 17:12*
+*2026-06-21 08:54*
 
 ## Metriques
 | Metrique | Valeur |
 |---|---|
 | epochs | 100 |
-| final_loss | 0.1089 |
-| corpus_images | 19205 |
+| final_loss | 0.0811 |
+| corpus_images | 24430 |
 | backbone | vit_base_patch16_224 |
 | lambda | 0.05 |
 | img | 224 |
