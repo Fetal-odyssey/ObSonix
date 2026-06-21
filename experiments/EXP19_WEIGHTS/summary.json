@@ -1,11 +1,11 @@
 {
   "exp_id": "EXP19_WEIGHTS",
-  "timestamp": "2026-06-19 20:10",
+  "timestamp": "2026-06-21 13:58",
   "metrics": {
+    "DINOv2": "OK (346 MB)",
     "FetalCLIP": "MANQUANT",
-    "LeJEPA": "MANQUANT",
     "I-JEPA": "MANQUANT",
-    "DINOv2": "OK"
+    "LeJEPA": "OK (343 MB)"
   },
-  "notes": "Telechargement poids modeles fondation foetaux"
+  "notes": "Poids de fondation : DINOv2 (timm) + FetalCLIP + I-JEPA (telechargements valides). LeJEPA ViT-S/16 = init in-domain produite par EXP-19B (pas de checkpoint officiel)."
 }
