@@ -1,13 +1,17 @@
 # EXP19_WEIGHTS
-*2026-06-21 13:58*
+*2026-06-21 16:56*
 
 ## Metriques
 | Metrique | Valeur |
 |---|---|
 | DINOv2 | OK (346 MB) |
-| FetalCLIP | MANQUANT |
-| I-JEPA | MANQUANT |
+| FetalCLIP | OK (1711 MB) |
+| I-JEPA | OK (10358 MB) |
 | LeJEPA | OK (343 MB) |
+| arch_DINOv2 | ViT-B/14 (768d) |
+| arch_FetalCLIP | ViT-L/14 open_clip (1024d) [comparateur externe] |
+| arch_I-JEPA | ViT-H/14 (1280d) [comparateur externe] |
+| arch_LeJEPA | ViT-B/16 (768d) in-domain |
 
 ## Notes
-Poids de fondation : DINOv2 (timm) + FetalCLIP + I-JEPA (telechargements valides). LeJEPA ViT-S/16 = init in-domain produite par EXP-19B (pas de checkpoint officiel).
+Poids de fondation. DINOv2 (timm). FetalCLIP open_clip ViT-L/14 (HF numansaeed/fetalclip-model : FetalCLIP_weights.pt + config). I-JEPA ViT-H/14 IN1K 300e (.pth.tar). FetalCLIP & I-JEPA = comparateurs externes (archi != ViT-B/16, non utilisables comme init EXP-22B). LeJEPA ViT-B/16 = EXP-19B.
