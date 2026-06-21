@@ -14,11 +14,12 @@ echographique foetal, methode LeJEPA (Balestriero & LeCun, 2025, arXiv:2511.0854
 - Pipeline : staging local /content (decode .mha unique + pre-resize 256 px)
   pour s'affranchir de l'I/O Google Drive a chaque epoch.
 
-## Corpus (19205 images)
-FETAL_PLANES_DB, IUGC2024 (frames), HC18, PSFHS (image_mha ; masques exclus).
+## Corpus (24430 images)
+FETAL_PLANES_DB, IUGC2024 (frames), HC18, PSFHS (image_mha), JNU_IFM ;
+masques exclus (mask/, mask_enhance/, *_Annotation, label_mha).
 
 ## Resultats
-- Epochs : 100 ; perte LeJEPA finale : 0.1089
+- Epochs : 100 ; perte LeJEPA finale : 0.0811
 - Artefact : weights/LeJEPA/lejepa_vitb16.pth (backbone), init de EXP-14 (DAPT).
 
 ## Reference
