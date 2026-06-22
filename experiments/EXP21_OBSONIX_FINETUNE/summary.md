@@ -1,11 +1,11 @@
 # EXP21_OBSONIX_FINETUNE
-*2026-06-22 20:28*
+*2026-06-22 23:25*
 
 ## Metriques
 | Metrique | Valeur |
 |---|---|
-| best_val_dice | 0.9656 |
-| best_epoch | 38 |
+| best_val_dice | 0.9660 |
+| best_epoch | 35 |
 | obs_init | DINOv2-B |
 | objectif_0.93 | OK |
 
