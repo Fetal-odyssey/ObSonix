@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{Effect of encoder initialization on fetal head segmentation (HC18 validation), decoder (Attention-ResUNet) and protocol held fixed.}
+\label{tab:init}
+\begin{tabular}{lr}
+\toprule
+Initialization & Dice (HC18 val) \\
+\midrule
+ImageNet-1K & 0.9782 \\
+OBSonix (DINO+iBOT) & 0.9654 \\
+LeJEPA + DAPT & 0.9651 \\
+LeJEPA (in-domain) & 0.9599 \\
+\bottomrule
+\end{tabular}
+\end{table}

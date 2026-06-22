@@ -1,0 +1,5 @@
+Initialization,Dice (HC18 val)
+ImageNet-1K,0.9782
+OBSonix (DINO+iBOT),0.9654
+LeJEPA + DAPT,0.9651
+LeJEPA (in-domain),0.9599
