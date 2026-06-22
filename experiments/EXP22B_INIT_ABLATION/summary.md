@@ -1,5 +1,5 @@
 # EXP22B_INIT_ABLATION
-*2026-06-22 18:02*
+*2026-06-22 23:26*
 
 ## Metriques
 | Metrique | Valeur |
