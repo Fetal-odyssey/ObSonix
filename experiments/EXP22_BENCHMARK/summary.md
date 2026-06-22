@@ -1,0 +1,13 @@
+# EXP22_BENCHMARK
+*2026-06-22 18:03*
+
+## Metriques
+| Metrique | Valeur |
+|---|---|
+| best_model | [INIT] init=IN1K  (AttResUNet) |
+| best_dice | 0.9781+/-0.0107 |
+| best_hc_mae_mm_approx | 1.49 |
+| csv | /content/drive/MyDrive/OBSonix/results/benchmark_results.csv |
+
+## Notes
+Benchmark HC18 val. [INIT] = ablation d'initialisation a decodeur AttResUNet constant (EXP-22B) ; [DEC] = variantes de decodeur (EXP-15/16/17). Dice = metrique fiable, HC_MAE_mm INDICATIF (pixel fixe 0.18).
