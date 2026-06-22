@@ -1,6 +1,6 @@
 {
   "exp_id": "EXP19_WEIGHTS",
-  "timestamp": "2026-06-22 20:08",
+  "timestamp": "2026-06-22 23:08",
   "metrics": {
     "DINOv2": "OK (346 MB)",
     "FetalCLIP": "OK (1711 MB)",
