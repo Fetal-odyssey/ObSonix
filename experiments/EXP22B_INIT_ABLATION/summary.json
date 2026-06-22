@@ -1,0 +1,11 @@
+{
+  "exp_id": "EXP22B_INIT_ABLATION",
+  "timestamp": "2026-06-22 18:02",
+  "metrics": {
+    "Dice_IN1K": "0.9782",
+    "Dice_LeJEPA": "0.9599",
+    "Dice_DAPT14": "0.9651",
+    "Dice_OBSonix": "0.9654"
+  },
+  "notes": "Ablation init x Dice a decodeur AttResUNet + protocole EXP-16 identiques (degel ep 10, 60 ep). Bras : IN1K, LeJEPA (EXP-19B), DAPT-14 (EXP-14), OBSonix (EXP-20)."
+}
