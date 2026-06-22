@@ -1,5 +1,5 @@
 # EXP19_WEIGHTS
-*2026-06-21 16:56*
+*2026-06-22 06:17*
 
 ## Metriques
 | Metrique | Valeur |
