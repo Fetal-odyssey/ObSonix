@@ -1,6 +1,6 @@
 {
   "exp_id": "EXP24_CLINICAL_DASHBOARD",
-  "timestamp": "2026-06-22 18:12",
+  "timestamp": "2026-06-22 23:36",
   "metrics": {
     "overlays": 12,
     "figures_article": "[PosixPath('/content/drive/MyDrive/OBSonix/results/EXP24_mosaic_figure_article.png'), PosixPath('/content/drive/MyDrive/OBSonix/results/EXP24_bland_altman_figure_article.png'), PosixPath('/content/drive/MyDrive/OBSonix/results/EXP24_umap_embeddings.png')]",

@@ -1,5 +1,5 @@
 # EXP24_CLINICAL_DASHBOARD
-*2026-06-22 18:12*
+*2026-06-22 23:36*
 
 ## Metriques
 | Metrique | Valeur |
