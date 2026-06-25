@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{Few-shot fetal head segmentation on HC18 (median Dice over 3 seeds, per-backbone probe recipe selected at 5\%). Decoder (Attention-ResUNet) and protocol fixed; superscript = collapse rate (Dice$<$0.60). Best per column in bold.}
+\label{tab:fewshot}
+\begin{tabular}{lrrrrr}
+\toprule
+Initialization & 5\% & 10\% & 25\% & 50\% & 100\% \\
+\midrule
+ImageNet-1K & \textbf{0.969} & \textbf{0.972} & \textbf{0.975} & \textbf{0.977} & \textbf{0.978} \\
+LeJEPA (in-domain) & 0.844 & 0.896 & 0.941 & 0.957 & 0.965 \\
+LeJEPA + DAPT & 0.851 & 0.900 & 0.942 & 0.957 & 0.964 \\
+OBSonix (DINO+iBOT) & 0.889 & 0.923 & 0.952 & 0.963 & 0.968 \\
+\bottomrule
+\end{tabular}
+\end{table}
