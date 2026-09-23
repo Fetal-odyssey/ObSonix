@@ -1,0 +1,37 @@
+{
+ "campagne": "analyses3_anatomie4",
+ "graine": 1789,
+ "categories": [
+  "foetal",
+  "cardiaque",
+  "thyroide",
+  "sein"
+ ],
+ "min_cellule": 20,
+ "plafond": 300,
+ "k_plis": 4,
+ "n_boot": 1000,
+ "n_perm": 500,
+ "familles": {
+  "EchoNet_Dynamic": "EchoNet",
+  "EchoNet_LVH": "EchoNet",
+  "EchoNet_Pediatric": "EchoNet",
+  "FE1_FetalEcho_T1": "FetalEcho",
+  "FE2_FetalEcho_T2": "FetalEcho"
+ },
+ "encodeurs": [
+  "RANDOM",
+  "IN1K",
+  "DINOv2",
+  "A0 ep100",
+  "A0 ep200",
+  "A0 ep300",
+  "FOETAL ep50",
+  "FOETAL ep100"
+ ],
+ "principal": "A0 ep300",
+ "temoin": "DINOv2",
+ "pretraitement": "Resize((px,px)) + ToTensor, RGB, px=256 (I-JEPA, IN1K) ou 224 (DINOv2)",
+ "features": "moyenne des tokens de patch (token de classe exclu), standardisés sur le train",
+ "sonde": "régression logistique multinomiale (lbfgs, C=1, max_iter=3000), variantes équilibrée et brute"
+}

@@ -1,0 +1,41 @@
+encodeur,condition,variante,pli,n_test,exactitude,exactitude_equilibree,f1_macro,rappel_foetal,rappel_cardiaque,rappel_thyroide,rappel_sein
+RANDOM,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+RANDOM,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+RANDOM,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+RANDOM,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+RANDOM,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+IN1K,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+IN1K,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+IN1K,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+IN1K,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+IN1K,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+DINOv2,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+DINOv2,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+DINOv2,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+DINOv2,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+DINOv2,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+A0 ep100,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+A0 ep100,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+A0 ep100,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+A0 ep100,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+A0 ep100,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+A0 ep200,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+A0 ep200,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+A0 ep200,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+A0 ep200,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+A0 ep200,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+A0 ep300,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+A0 ep300,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+A0 ep300,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+A0 ep300,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+A0 ep300,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+FOETAL ep50,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+FOETAL ep50,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+FOETAL ep50,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+FOETAL ep50,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+FOETAL ep50,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0
+FOETAL ep100,source,equilibree_centree,regroupe,6256,0.3356777493606138,0.25,0.12565820966969843,1.0,0.0,0.0,0.0
+FOETAL ep100,source,equilibree_centree,0,1200,0.25,0.25,0.1,1.0,0.0,0.0,0.0
+FOETAL ep100,source,equilibree_centree,1,1800,0.5,0.25,0.16666666666666666,1.0,0.0,0.0,0.0
+FOETAL ep100,source,equilibree_centree,2,1800,0.16666666666666666,0.25,0.07142857142857142,1.0,0.0,0.0,0.0
+FOETAL ep100,source,equilibree_centree,3,1456,0.41208791208791207,0.25,0.14591439688715954,1.0,0.0,0.0,0.0

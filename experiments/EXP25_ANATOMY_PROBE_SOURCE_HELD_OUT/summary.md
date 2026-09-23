@@ -1,0 +1,33 @@
+# EXP25_ANATOMY_PROBE_SOURCE_HELD_OUT
+*2026-09-23 11:16*
+
+## Metriques
+| Metrique | Valeur |
+|---|---|
+| principal | OBSonix A0 ep300 |
+| temoin | DINOv2 |
+| verdict_principal | SURVIT |
+| n_images | 6256 |
+| n_sources | 21 |
+| n_groupes_sources | 18 |
+| k_plis | 4 |
+| categories | fetal, cardiac, thyroid, breast |
+| campagne_drive | /content/drive/MyDrive/OBSonix/eval/analyses3_anatomie4 |
+| principal_balanced_accuracy_source_held_out | 0.655 |
+| principal_ci_lower_source_cluster | 0.519 |
+| principal_permutation_p975 | 0.286 |
+| principal_survives | True |
+| temoin_balanced_accuracy_source_held_out | 0.736 |
+| temoin_ci_lower_source_cluster | 0.648 |
+| temoin_permutation_p975 | 0.259 |
+| temoin_survives | True |
+| random_balanced_accuracy_source_held_out | 0.519 |
+| random_ci_lower_source_cluster | 0.405 |
+| random_permutation_p975 | 0.269 |
+| random_survives | True |
+| majority_baseline_source_held_out | 0.155 |
+| principal_balanced_accuracy_image_wise | 0.991 [0.986; 0.996] |
+| temoin_balanced_accuracy_image_wise | 0.987 [0.981; 0.992] |
+
+## Notes
+Sonde anatomie (fetal, cardiac, thyroid, breast) sur features gelees, comparaison decoupage par image contre sources tenues hors (4 plis, familles de jeux tenues hors ensemble). Critere principal : exactitude equilibree, IC bootstrap par grappe de sources, test de permutation, regle pre-enregistree. Verdict OBSonix A0 ep300 : le signal anatomique SURVIT a la tenue hors des sources. Images et features restent sur le Drive.
