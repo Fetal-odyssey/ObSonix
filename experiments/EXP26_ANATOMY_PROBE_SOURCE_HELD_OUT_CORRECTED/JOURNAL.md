@@ -1,0 +1,205 @@
+- `2026-09-23 14:02:56` === session démarrée (Colab) ; étapes faites : [] ===
+- `2026-09-23 14:02:57` S1 : index lu, 255887 images, 36 sources, 17 catégories
+- `2026-09-23 14:02:57` S1 : source exclue : STMUS_NDA (15978 images) ; motif : échographie musculaire (biceps, gastrocnémien) enregistrée comme thyroïde dans l index
+- `2026-09-23 14:02:57` S1 : source exclue : FPUS23 (17101 images) ; motif : fantôme fœtal, pas des images de patientes
+- `2026-09-23 14:02:57` S1 : catégories éligibles (≥ 3 sources à ≥ 20 images) : ['cardiaque', 'foetal', 'sein', 'thyroide']
+- `2026-09-23 14:02:57` S1 : 3 plis (graine 1789) ; effectifs par pli et catégorie : {0: {'foetal': 900, 'cardiaque': 300, 'thyroide': 300, 'sein': 300}, 1: {'foetal': 300, 'cardiaque': 1200, 'thyroide': 300, 'sein': 556}, 2: {'foetal': 600, 'cardiaque': 300, 'thyroide': 300, 'sein': 300}}
+- `2026-09-23 14:02:58` S1 : TERMINÉ ET VÉRIFIÉ ; 5656 images, 19 sources (16 groupes), 3 plis
+- `2026-09-23 14:02:58` S2 : 5656 images à extraire dans 32 shards
+- `2026-09-23 14:03:00` S2 : obsonix-v6-00000.tar : 174/174 images (0 manquantes)
+- `2026-09-23 14:03:04` S2 : obsonix-v6-00001.tar : 167/167 images (0 manquantes)
+- `2026-09-23 14:03:07` S2 : obsonix-v6-00002.tar : 167/167 images (0 manquantes)
+- `2026-09-23 14:03:10` S2 : obsonix-v6-00003.tar : 207/207 images (0 manquantes)
+- `2026-09-23 14:03:43` === session démarrée (Colab) ; étapes faites : ['S1'] ===
+- `2026-09-23 14:03:43` S2 : 5656 images à extraire dans 32 shards
+- `2026-09-23 14:03:45` S2 : obsonix-v6-00004.tar : 190/190 images (0 manquantes)
+- `2026-09-23 14:03:48` S2 : obsonix-v6-00005.tar : 172/172 images (0 manquantes)
+- `2026-09-23 14:03:51` S2 : obsonix-v6-00006.tar : 183/183 images (0 manquantes)
+- `2026-09-23 14:03:54` S2 : obsonix-v6-00007.tar : 198/198 images (0 manquantes)
+- `2026-09-23 14:03:58` S2 : obsonix-v6-00008.tar : 187/187 images (0 manquantes)
+- `2026-09-23 14:04:01` S2 : obsonix-v6-00009.tar : 161/161 images (0 manquantes)
+- `2026-09-23 14:04:04` S2 : obsonix-v6-00010.tar : 170/170 images (0 manquantes)
+- `2026-09-23 14:04:04` ~ shards 11/32
+- `2026-09-23 14:04:07` S2 : obsonix-v6-00011.tar : 165/165 images (0 manquantes)
+- `2026-09-23 14:04:10` S2 : obsonix-v6-00012.tar : 176/176 images (0 manquantes)
+- `2026-09-23 14:04:14` S2 : obsonix-v6-00013.tar : 186/186 images (0 manquantes)
+- `2026-09-23 14:04:22` S2 : obsonix-v6-00014.tar : 180/180 images (0 manquantes)
+- `2026-09-23 14:04:24` S2 : obsonix-v6-00015.tar : 189/189 images (0 manquantes)
+- `2026-09-23 14:04:24` ~ shards 16/32
+- `2026-09-23 14:04:27` S2 : obsonix-v6-00016.tar : 164/164 images (0 manquantes)
+- `2026-09-23 14:04:30` S2 : obsonix-v6-00017.tar : 202/202 images (0 manquantes)
+- `2026-09-23 14:04:33` S2 : obsonix-v6-00018.tar : 189/189 images (0 manquantes)
+- `2026-09-23 14:04:37` S2 : obsonix-v6-00019.tar : 178/178 images (0 manquantes)
+- `2026-09-23 14:04:41` S2 : obsonix-v6-00020.tar : 191/191 images (0 manquantes)
+- `2026-09-23 14:04:44` S2 : obsonix-v6-00021.tar : 189/189 images (0 manquantes)
+- `2026-09-23 14:04:47` S2 : obsonix-v6-00022.tar : 177/177 images (0 manquantes)
+- `2026-09-23 14:04:47` ~ shards 23/32
+- `2026-09-23 14:04:51` S2 : obsonix-v6-00023.tar : 180/180 images (0 manquantes)
+- `2026-09-23 14:04:54` S2 : obsonix-v6-00024.tar : 160/160 images (0 manquantes)
+- `2026-09-23 14:05:03` S2 : obsonix-v6-00025.tar : 171/171 images (0 manquantes)
+- `2026-09-23 14:05:06` S2 : obsonix-v6-00026.tar : 182/182 images (0 manquantes)
+- `2026-09-23 14:05:13` S2 : obsonix-v6-00027.tar : 198/198 images (0 manquantes)
+- `2026-09-23 14:05:13` ~ shards 28/32
+- `2026-09-23 14:05:16` S2 : obsonix-v6-00028.tar : 200/200 images (0 manquantes)
+- `2026-09-23 14:05:21` S2 : obsonix-v6-00029.tar : 166/166 images (0 manquantes)
+- `2026-09-23 14:05:23` S2 : obsonix-v6-00030.tar : 203/203 images (0 manquantes)
+- `2026-09-23 14:05:25` S2 : obsonix-v6-00031.tar : 34/34 images (0 manquantes)
+- `2026-09-23 14:05:25` shards terminé : 32 en 1m42s
+- `2026-09-23 14:05:25` S2 : TERMINÉ ET VÉRIFIÉ ; 5656 images dans 32 archives
+- `2026-09-23 14:05:25` copie locale des archives terminé : 32 en 0s
+- `2026-09-23 14:05:30` vérification images terminé : 5656 en 1s
+- `2026-09-23 14:05:30` S3 : RANDOM : extraction
+- `2026-09-23 14:05:37` features 256px terminé : 5656 en 6s
+- `2026-09-23 14:05:38` S3 : RANDOM : (5656, 768) en 8s, écrit et relu
+- `2026-09-23 14:05:38` S3 : IN1K : extraction
+- `2026-09-23 14:05:49` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:05:50` S3 : IN1K : (5656, 768) en 13s, écrit et relu
+- `2026-09-23 14:05:50` S3 : DINOv2 : extraction
+- `2026-09-23 14:05:59` features 224px terminé : 5656 en 6s
+- `2026-09-23 14:05:59` S3 : DINOv2 : (5656, 768) en 9s, écrit et relu
+- `2026-09-23 14:05:59` S3 : A0 ep100 : extraction
+- `2026-09-23 14:06:31` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:06:31` S3 : A0 ep100 : (5656, 768) en 32s, écrit et relu
+- `2026-09-23 14:06:31` S3 : A0 ep200 : extraction
+- `2026-09-23 14:07:02` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:07:02` S3 : A0 ep200 : (5656, 768) en 31s, écrit et relu
+- `2026-09-23 14:07:02` S3 : A0 ep300 : extraction
+- `2026-09-23 14:07:32` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:07:32` S3 : A0 ep300 : (5656, 768) en 30s, écrit et relu
+- `2026-09-23 14:07:32` S3 : FOETAL ep50 : extraction
+- `2026-09-23 14:08:01` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:08:01` S3 : FOETAL ep50 : (5656, 768) en 29s, écrit et relu
+- `2026-09-23 14:08:01` S3 : FOETAL ep100 : extraction
+- `2026-09-23 14:08:31` features 256px terminé : 5656 en 5s
+- `2026-09-23 14:08:31` S3 : FOETAL ep100 : (5656, 768) en 30s, écrit et relu
+- `2026-09-23 14:08:31` S3 : TERMINÉ ET VÉRIFIÉ ; 8 encodeurs × 5656 images
+- `2026-09-23 14:09:05` S4 : RANDOM | image | equilibree : exactitude équilibrée 0.940
+- `2026-09-23 14:09:05` ~ sondes anatomie 1/32
+- `2026-09-23 14:09:36` S4 : RANDOM | image | brute : exactitude équilibrée 0.937
+- `2026-09-23 14:09:36` ~ sondes anatomie 2/32
+- `2026-09-23 14:10:36` S4 : RANDOM | source | equilibree : exactitude équilibrée 0.464
+- `2026-09-23 14:10:36` ~ sondes anatomie 3/32
+- `2026-09-23 14:11:30` S4 : RANDOM | source | brute : exactitude équilibrée 0.457
+- `2026-09-23 14:11:30` ~ sondes anatomie 4/32
+- `2026-09-23 14:11:36` S4 : IN1K | image | equilibree : exactitude équilibrée 0.993
+- `2026-09-23 14:11:42` S4 : IN1K | image | brute : exactitude équilibrée 0.993
+- `2026-09-23 14:11:59` S4 : IN1K | source | equilibree : exactitude équilibrée 0.723
+- `2026-09-23 14:11:59` ~ sondes anatomie 7/32
+- `2026-09-23 14:12:16` S4 : IN1K | source | brute : exactitude équilibrée 0.738
+- `2026-09-23 14:12:23` S4 : DINOv2 | image | equilibree : exactitude équilibrée 0.986
+- `2026-09-23 14:12:23` ~ sondes anatomie 9/32
+- `2026-09-23 14:12:29` S4 : DINOv2 | image | brute : exactitude équilibrée 0.988
+- `2026-09-23 14:12:47` S4 : DINOv2 | source | equilibree : exactitude équilibrée 0.747
+- `2026-09-23 14:12:47` ~ sondes anatomie 11/32
+- `2026-09-23 14:13:05` S4 : DINOv2 | source | brute : exactitude équilibrée 0.747
+- `2026-09-23 14:13:13` S4 : A0 ep100 | image | equilibree : exactitude équilibrée 0.987
+- `2026-09-23 14:13:13` ~ sondes anatomie 13/32
+- `2026-09-23 14:13:21` S4 : A0 ep100 | image | brute : exactitude équilibrée 0.987
+- `2026-09-23 14:13:41` S4 : A0 ep100 | source | equilibree : exactitude équilibrée 0.672
+- `2026-09-23 14:13:41` ~ sondes anatomie 15/32
+- `2026-09-23 14:14:02` S4 : A0 ep100 | source | brute : exactitude équilibrée 0.665
+- `2026-09-23 14:14:02` ~ sondes anatomie 16/32
+- `2026-09-23 14:14:09` S4 : A0 ep200 | image | equilibree : exactitude équilibrée 0.987
+- `2026-09-23 14:14:16` S4 : A0 ep200 | image | brute : exactitude équilibrée 0.987
+- `2026-09-23 14:14:35` S4 : A0 ep200 | source | equilibree : exactitude équilibrée 0.664
+- `2026-09-23 14:14:35` ~ sondes anatomie 19/32
+- `2026-09-23 14:14:54` S4 : A0 ep200 | source | brute : exactitude équilibrée 0.654
+- `2026-09-23 14:15:02` S4 : A0 ep300 | image | equilibree : exactitude équilibrée 0.983
+- `2026-09-23 14:15:02` ~ sondes anatomie 21/32
+- `2026-09-23 14:15:10` S4 : A0 ep300 | image | brute : exactitude équilibrée 0.984
+- `2026-09-23 14:15:31` S4 : A0 ep300 | source | equilibree : exactitude équilibrée 0.669
+- `2026-09-23 14:15:31` ~ sondes anatomie 23/32
+- `2026-09-23 14:15:51` S4 : A0 ep300 | source | brute : exactitude équilibrée 0.664
+- `2026-09-23 14:15:51` ~ sondes anatomie 24/32
+- `2026-09-23 14:16:00` S4 : FOETAL ep50 | image | equilibree : exactitude équilibrée 0.982
+- `2026-09-23 14:16:07` S4 : FOETAL ep50 | image | brute : exactitude équilibrée 0.985
+- `2026-09-23 14:16:27` S4 : FOETAL ep50 | source | equilibree : exactitude équilibrée 0.669
+- `2026-09-23 14:16:27` ~ sondes anatomie 27/32
+- `2026-09-23 14:16:46` S4 : FOETAL ep50 | source | brute : exactitude équilibrée 0.662
+- `2026-09-23 14:16:55` S4 : FOETAL ep100 | image | equilibree : exactitude équilibrée 0.987
+- `2026-09-23 14:16:55` ~ sondes anatomie 29/32
+- `2026-09-23 14:17:04` S4 : FOETAL ep100 | image | brute : exactitude équilibrée 0.986
+- `2026-09-23 14:17:25` S4 : FOETAL ep100 | source | equilibree : exactitude équilibrée 0.659
+- `2026-09-23 14:17:25` ~ sondes anatomie 31/32
+- `2026-09-23 14:17:46` S4 : FOETAL ep100 | source | brute : exactitude équilibrée 0.658
+- `2026-09-23 14:17:46` ~ sondes anatomie 32/32
+- `2026-09-23 14:17:46` sondes anatomie terminé : 32 en 9m14s
+- `2026-09-23 14:17:47` S4 : TERMINÉ ET VÉRIFIÉ ; 32 sondes, 117648 prédictions
+- `2026-09-23 14:22:12` ~ sondes source 1/40
+- `2026-09-23 14:22:12` S5 : RANDOM : source globale 0.912 (hasard 0.053)
+- `2026-09-23 14:22:19` S5 : IN1K : source globale 0.979 (hasard 0.053)
+- `2026-09-23 14:22:28` S5 : DINOv2 : source globale 0.972 (hasard 0.053)
+- `2026-09-23 14:22:49` ~ sondes source 16/40
+- `2026-09-23 14:22:49` S5 : A0 ep100 : source globale 0.967 (hasard 0.053)
+- `2026-09-23 14:23:08` S5 : A0 ep200 : source globale 0.981 (hasard 0.053)
+- `2026-09-23 14:23:28` ~ sondes source 26/40
+- `2026-09-23 14:23:28` S5 : A0 ep300 : source globale 0.975 (hasard 0.053)
+- `2026-09-23 14:23:51` ~ sondes source 31/40
+- `2026-09-23 14:23:51` S5 : FOETAL ep50 : source globale 0.972 (hasard 0.053)
+- `2026-09-23 14:24:22` ~ sondes source 36/40
+- `2026-09-23 14:24:22` S5 : FOETAL ep100 : source globale 0.972 (hasard 0.053)
+- `2026-09-23 14:24:22` sondes source terminé : 40 en 6m34s
+- `2026-09-23 14:24:22` S5 : TERMINÉ ET VÉRIFIÉ ; 40 sondes source
+- `2026-09-23 14:24:35` S6 : RANDOM : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:24:48` S6 : IN1K : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:24:48` ~ centrage par source 2/8
+- `2026-09-23 14:25:00` S6 : DINOv2 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:25:13` S6 : A0 ep100 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:25:13` ~ centrage par source 4/8
+- `2026-09-23 14:25:26` S6 : A0 ep200 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:25:38` S6 : A0 ep300 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:25:38` ~ centrage par source 6/8
+- `2026-09-23 14:25:51` S6 : FOETAL ep50 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:26:04` S6 : FOETAL ep100 : exactitude équilibrée centrée 0.250
+- `2026-09-23 14:26:04` ~ centrage par source 8/8
+- `2026-09-23 14:26:04` centrage par source terminé : 8 en 1m41s
+- `2026-09-23 14:26:04` S6 : TERMINÉ ET VÉRIFIÉ ; 8 encodeurs
+- `2026-09-23 14:26:06` S7 : TERMINÉ ET VÉRIFIÉ ; 132 fichiers dans le manifeste ; verdict SURVIT
+- `2026-09-23 14:26:07` parquet non écrit pour S8_adjudication_resume (ArrowInvalid) ; le CSV fait foi
+- `2026-09-23 14:26:07` S8 : TERMINÉ ET VÉRIFIÉ ; 25 paires dépouillées
+- `2026-09-23 14:28:07` S9 : publication GitHub ignorée : aucun des secrets ['GOLDBACH', 'OBSONIX3', 'GITHUB_TOKEN2', 'GITHUB_TOKEN'] ne peut écrire dans Fetal-odyssey/ObSonix ; les résultats restent sur le Drive
+- `2026-09-23 14:28:07` === session terminée ===
+- `2026-09-24 11:26:02` === session démarrée (Colab) ; étapes faites : ['S1', 'S2', 'S3', 'S4', 'S5', 'S6', 'S7', 'S8'] ===
+- `2026-09-24 11:26:25` ~ copie locale des archives 11/32
+- `2026-09-24 11:26:46` ~ copie locale des archives 22/32
+- `2026-09-24 11:27:06` copie locale des archives terminé : 32 en 1m02s
+- `2026-09-24 11:27:24` S4b : validation croisée par image à 3 plis sur les 5656 images de S4 (analyse post hoc du 24 septembre 2026, non pré-enregistrée) ; effectifs par pli : [1885, 1886, 1885]
+- `2026-09-24 11:28:48` S4b : RANDOM | image_cv | equilibree : exactitude équilibrée 0.937
+- `2026-09-24 11:28:48` ~ sondes par image, 3 plis 1/16
+- `2026-09-24 11:30:07` S4b : RANDOM | image_cv | brute : exactitude équilibrée 0.937
+- `2026-09-24 11:30:07` ~ sondes par image, 3 plis 2/16
+- `2026-09-24 11:30:24` S4b : IN1K | image_cv | equilibree : exactitude équilibrée 0.992
+- `2026-09-24 11:30:41` S4b : IN1K | image_cv | brute : exactitude équilibrée 0.992
+- `2026-09-24 11:30:41` ~ sondes par image, 3 plis 4/16
+- `2026-09-24 11:31:00` S4b : DINOv2 | image_cv | equilibree : exactitude équilibrée 0.986
+- `2026-09-24 11:31:18` S4b : DINOv2 | image_cv | brute : exactitude équilibrée 0.986
+- `2026-09-24 11:31:18` ~ sondes par image, 3 plis 6/16
+- `2026-09-24 11:31:40` S4b : A0 ep100 | image_cv | equilibree : exactitude équilibrée 0.987
+- `2026-09-24 11:31:40` ~ sondes par image, 3 plis 7/16
+- `2026-09-24 11:32:02` S4b : A0 ep100 | image_cv | brute : exactitude équilibrée 0.987
+- `2026-09-24 11:32:02` ~ sondes par image, 3 plis 8/16
+- `2026-09-24 11:32:23` S4b : A0 ep200 | image_cv | equilibree : exactitude équilibrée 0.988
+- `2026-09-24 11:32:23` ~ sondes par image, 3 plis 9/16
+- `2026-09-24 11:32:43` S4b : A0 ep200 | image_cv | brute : exactitude équilibrée 0.987
+- `2026-09-24 11:32:43` ~ sondes par image, 3 plis 10/16
+- `2026-09-24 11:33:06` S4b : A0 ep300 | image_cv | equilibree : exactitude équilibrée 0.986
+- `2026-09-24 11:33:06` ~ sondes par image, 3 plis 11/16
+- `2026-09-24 11:33:28` S4b : A0 ep300 | image_cv | brute : exactitude équilibrée 0.987
+- `2026-09-24 11:33:28` ~ sondes par image, 3 plis 12/16
+- `2026-09-24 11:33:52` S4b : FOETAL ep50 | image_cv | equilibree : exactitude équilibrée 0.985
+- `2026-09-24 11:33:52` ~ sondes par image, 3 plis 13/16
+- `2026-09-24 11:34:15` S4b : FOETAL ep50 | image_cv | brute : exactitude équilibrée 0.985
+- `2026-09-24 11:34:15` ~ sondes par image, 3 plis 14/16
+- `2026-09-24 11:34:39` S4b : FOETAL ep100 | image_cv | equilibree : exactitude équilibrée 0.984
+- `2026-09-24 11:34:39` ~ sondes par image, 3 plis 15/16
+- `2026-09-24 11:35:04` S4b : FOETAL ep100 | image_cv | brute : exactitude équilibrée 0.985
+- `2026-09-24 11:35:04` ~ sondes par image, 3 plis 16/16
+- `2026-09-24 11:35:04` sondes par image, 3 plis terminé : 16 en 7m40s
+- `2026-09-24 11:35:11` différences appariées terminé : 36 en 5s
+- `2026-09-24 11:35:11` S4b : sources tenues hors, RANDOM moins DINOv2 : -0.283 [-0.436 ; -0.162] (IC par grappe)
+- `2026-09-24 11:35:11` S4b : sources tenues hors, A0 ep300 moins DINOv2 : -0.078 [-0.254 ; +0.013] (IC par grappe)
+- `2026-09-24 11:35:11` S4b : sources tenues hors, A0 ep300 moins RANDOM : +0.205 [+0.076 ; +0.307] (IC par grappe)
+- `2026-09-24 11:35:11` S4b : TERMINÉ ET VÉRIFIÉ ; 16 sondes par image à 3 plis, 36 différences appariées
+- `2026-09-24 11:35:28` S7 : TERMINÉ ET VÉRIFIÉ ; 165 fichiers dans le manifeste ; verdict SURVIT
+- `2026-09-24 11:35:30` S9 : secret OBSONIX3 accepté (compte aminoside, jeton à granularité fine) ; écriture vérifiée sur Fetal-odyssey/ObSonix
+- `2026-09-24 11:35:30` S9 : dépôt Fetal-odyssey/ObSonix ; branche main

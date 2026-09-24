@@ -1,0 +1,49 @@
+encodeur,condition,variante,type,statistique,estimation,ic_bas,ic_haut
+RANDOM,source,equilibree_centree,image,exactitude,0.31824611032531824,0.30656824611032535,0.3299151343705799
+RANDOM,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+RANDOM,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.11731811378287434,0.12403616059558628
+RANDOM,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.1,0.5835655636890437
+RANDOM,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+RANDOM,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.045454545454545456,0.19759259259259251
+IN1K,source,equilibree_centree,image,exactitude,0.31824611032531824,0.30657266619519097,0.33044554455445546
+IN1K,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+IN1K,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.1173194088934819,0.1241860465116279
+IN1K,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.1,0.56789754333737
+IN1K,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+IN1K,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.045454545454545456,0.19753086419753085
+DINOv2,source,equilibree_centree,image,exactitude,0.31824611032531824,0.30657266619519097,0.3302687411598303
+DINOv2,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+DINOv2,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.1173194088934819,0.12413609782030835
+DINOv2,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.08487651373798988,0.6114583333333331
+DINOv2,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+DINOv2,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.041852881152513496,0.22345543081835223
+A0 ep100,source,equilibree_centree,image,exactitude,0.31824611032531824,0.30622347949080625,0.3300963578500707
+A0 ep100,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+A0 ep100,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.11721710882512182,0.12408738489931603
+A0 ep100,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.09978798047589996,0.5601194921583271
+A0 ep100,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+A0 ep100,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.04536625336653286,0.19863699981309066
+A0 ep200,source,equilibree_centree,image,exactitude,0.31824611032531824,0.3071074964639321,0.3299151343705799
+A0 ep200,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+A0 ep200,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.1174759908021101,0.12403616059558628
+A0 ep200,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.0951451233330428,0.5882352941176471
+A0 ep200,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+A0 ep200,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.04343937589617712,0.19753881824194322
+A0 ep300,source,equilibree_centree,image,exactitude,0.31824611032531824,0.306046676096181,0.32939356435643563
+A0 ep300,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+A0 ep300,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.11716529037498308,0.12388865549825741
+A0 ep300,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.09151921903599756,0.5601194921583271
+A0 ep300,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+A0 ep300,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.041922861934041364,0.19685039370078738
+FOETAL ep50,source,equilibree_centree,image,exactitude,0.31824611032531824,0.3063914427157002,0.32973833097595473
+FOETAL ep50,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+FOETAL ep50,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.11726632267756378,0.12398617205158888
+FOETAL ep50,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.06365250720740918,0.6111111111111112
+FOETAL ep50,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+FOETAL ep50,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.029921661114590804,0.20510436715330996
+FOETAL ep100,source,equilibree_centree,image,exactitude,0.31824611032531824,0.306046676096181,0.33115717821782176
+FOETAL ep100,source,equilibree_centree,image,exactitude_equilibree,0.25,0.25,0.25
+FOETAL ep100,source,equilibree_centree,image,f1_macro,0.12070815450643776,0.11716529037498308,0.12438695565283912
+FOETAL ep100,source,equilibree_centree,grappe_sources,exactitude,0.31824611032531824,0.10073875083948959,0.5601194921583271
+FOETAL ep100,source,equilibree_centree,grappe_sources,exactitude_equilibree,0.25,0.25,0.3333333333333333
+FOETAL ep100,source,equilibree_centree,grappe_sources,f1_macro,0.12070815450643776,0.046061066405026135,0.1896551724137931

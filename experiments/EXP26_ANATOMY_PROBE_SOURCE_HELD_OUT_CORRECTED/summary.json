@@ -1,0 +1,39 @@
+{
+  "exp_id": "EXP26_ANATOMY_PROBE_SOURCE_HELD_OUT_CORRECTED",
+  "timestamp": "2026-09-24 11:35",
+  "metrics": {
+    "principal": "OBSonix A0 ep300",
+    "temoin": "DINOv2",
+    "verdict_principal": "SURVIT",
+    "n_images": 5656,
+    "n_sources": 19,
+    "n_groupes_sources": 16,
+    "k_plis": 3,
+    "categories": [
+      "fetal",
+      "cardiac",
+      "thyroid",
+      "breast"
+    ],
+    "campagne_drive": "/content/drive/MyDrive/OBSonix/eval/analyses3_anatomie4b",
+    "principal_balanced_accuracy_source_held_out": 0.669,
+    "principal_ci_lower_source_cluster": 0.53,
+    "principal_permutation_p975": 0.26,
+    "principal_survives": true,
+    "temoin_balanced_accuracy_source_held_out": 0.747,
+    "temoin_ci_lower_source_cluster": 0.636,
+    "temoin_permutation_p975": 0.255,
+    "temoin_survives": true,
+    "random_balanced_accuracy_source_held_out": 0.464,
+    "random_ci_lower_source_cluster": 0.34,
+    "random_permutation_p975": 0.238,
+    "random_survives": true,
+    "majority_baseline_source_held_out": 0.125,
+    "principal_balanced_accuracy_image_wise": "0.983 [0.976; 0.990]",
+    "temoin_balanced_accuracy_image_wise": "0.986 [0.979; 0.993]",
+    "principal_minus_temoin_source_held_out_paired": "-0.078 [-0.254; +0.013]",
+    "principal_minus_random_source_held_out_paired": "+0.205 [+0.076; +0.307]",
+    "principal_image_cv_minus_source_held_out_paired": "+0.317 [+0.217; +0.459]"
+  },
+  "notes": "Sonde anatomie (fetal, cardiac, thyroid, breast) sur features gelees, comparaison decoupage par image contre sources tenues hors (3 plis, familles de jeux tenues hors ensemble). Critere principal : exactitude equilibree, IC bootstrap par grappe de sources, test de permutation, regle pre-enregistree. Verdict OBSonix A0 ep300 : le signal anatomique SURVIT a la tenue hors des sources. Images et features restent sur le Drive."
+}

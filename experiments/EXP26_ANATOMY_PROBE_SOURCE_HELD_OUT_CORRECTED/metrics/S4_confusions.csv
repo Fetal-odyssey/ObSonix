@@ -1,0 +1,513 @@
+encodeur,condition,variante,vrai,predit,n
+RANDOM,image,equilibree,foetal,foetal,518
+RANDOM,image,equilibree,foetal,cardiaque,9
+RANDOM,image,equilibree,foetal,thyroide,2
+RANDOM,image,equilibree,foetal,sein,11
+RANDOM,image,equilibree,cardiaque,foetal,5
+RANDOM,image,equilibree,cardiaque,cardiaque,531
+RANDOM,image,equilibree,cardiaque,thyroide,3
+RANDOM,image,equilibree,cardiaque,sein,1
+RANDOM,image,equilibree,thyroide,foetal,3
+RANDOM,image,equilibree,thyroide,cardiaque,5
+RANDOM,image,equilibree,thyroide,thyroide,245
+RANDOM,image,equilibree,thyroide,sein,17
+RANDOM,image,equilibree,sein,foetal,6
+RANDOM,image,equilibree,sein,cardiaque,0
+RANDOM,image,equilibree,sein,thyroide,25
+RANDOM,image,equilibree,sein,sein,316
+RANDOM,image,brute,foetal,foetal,522
+RANDOM,image,brute,foetal,cardiaque,7
+RANDOM,image,brute,foetal,thyroide,2
+RANDOM,image,brute,foetal,sein,9
+RANDOM,image,brute,cardiaque,foetal,5
+RANDOM,image,brute,cardiaque,cardiaque,531
+RANDOM,image,brute,cardiaque,thyroide,3
+RANDOM,image,brute,cardiaque,sein,1
+RANDOM,image,brute,thyroide,foetal,4
+RANDOM,image,brute,thyroide,cardiaque,5
+RANDOM,image,brute,thyroide,thyroide,238
+RANDOM,image,brute,thyroide,sein,23
+RANDOM,image,brute,sein,foetal,6
+RANDOM,image,brute,sein,cardiaque,0
+RANDOM,image,brute,sein,thyroide,23
+RANDOM,image,brute,sein,sein,318
+RANDOM,source,equilibree,foetal,foetal,931
+RANDOM,source,equilibree,foetal,cardiaque,558
+RANDOM,source,equilibree,foetal,thyroide,152
+RANDOM,source,equilibree,foetal,sein,159
+RANDOM,source,equilibree,cardiaque,foetal,697
+RANDOM,source,equilibree,cardiaque,cardiaque,727
+RANDOM,source,equilibree,cardiaque,thyroide,374
+RANDOM,source,equilibree,cardiaque,sein,2
+RANDOM,source,equilibree,thyroide,foetal,78
+RANDOM,source,equilibree,thyroide,cardiaque,32
+RANDOM,source,equilibree,thyroide,thyroide,369
+RANDOM,source,equilibree,thyroide,sein,421
+RANDOM,source,equilibree,sein,foetal,274
+RANDOM,source,equilibree,sein,cardiaque,0
+RANDOM,source,equilibree,sein,thyroide,276
+RANDOM,source,equilibree,sein,sein,606
+RANDOM,source,brute,foetal,foetal,944
+RANDOM,source,brute,foetal,cardiaque,580
+RANDOM,source,brute,foetal,thyroide,123
+RANDOM,source,brute,foetal,sein,153
+RANDOM,source,brute,cardiaque,foetal,768
+RANDOM,source,brute,cardiaque,cardiaque,688
+RANDOM,source,brute,cardiaque,thyroide,342
+RANDOM,source,brute,cardiaque,sein,2
+RANDOM,source,brute,thyroide,foetal,82
+RANDOM,source,brute,thyroide,cardiaque,32
+RANDOM,source,brute,thyroide,thyroide,357
+RANDOM,source,brute,thyroide,sein,429
+RANDOM,source,brute,sein,foetal,287
+RANDOM,source,brute,sein,cardiaque,0
+RANDOM,source,brute,sein,thyroide,262
+RANDOM,source,brute,sein,sein,607
+IN1K,image,equilibree,foetal,foetal,539
+IN1K,image,equilibree,foetal,cardiaque,1
+IN1K,image,equilibree,foetal,thyroide,0
+IN1K,image,equilibree,foetal,sein,0
+IN1K,image,equilibree,cardiaque,foetal,0
+IN1K,image,equilibree,cardiaque,cardiaque,540
+IN1K,image,equilibree,cardiaque,thyroide,0
+IN1K,image,equilibree,cardiaque,sein,0
+IN1K,image,equilibree,thyroide,foetal,0
+IN1K,image,equilibree,thyroide,cardiaque,0
+IN1K,image,equilibree,thyroide,thyroide,264
+IN1K,image,equilibree,thyroide,sein,6
+IN1K,image,equilibree,sein,foetal,1
+IN1K,image,equilibree,sein,cardiaque,1
+IN1K,image,equilibree,sein,thyroide,0
+IN1K,image,equilibree,sein,sein,345
+IN1K,image,brute,foetal,foetal,539
+IN1K,image,brute,foetal,cardiaque,1
+IN1K,image,brute,foetal,thyroide,0
+IN1K,image,brute,foetal,sein,0
+IN1K,image,brute,cardiaque,foetal,0
+IN1K,image,brute,cardiaque,cardiaque,540
+IN1K,image,brute,cardiaque,thyroide,0
+IN1K,image,brute,cardiaque,sein,0
+IN1K,image,brute,thyroide,foetal,0
+IN1K,image,brute,thyroide,cardiaque,0
+IN1K,image,brute,thyroide,thyroide,264
+IN1K,image,brute,thyroide,sein,6
+IN1K,image,brute,sein,foetal,1
+IN1K,image,brute,sein,cardiaque,1
+IN1K,image,brute,sein,thyroide,0
+IN1K,image,brute,sein,sein,345
+IN1K,source,equilibree,foetal,foetal,1432
+IN1K,source,equilibree,foetal,cardiaque,238
+IN1K,source,equilibree,foetal,thyroide,120
+IN1K,source,equilibree,foetal,sein,10
+IN1K,source,equilibree,cardiaque,foetal,797
+IN1K,source,equilibree,cardiaque,cardiaque,707
+IN1K,source,equilibree,cardiaque,thyroide,137
+IN1K,source,equilibree,cardiaque,sein,159
+IN1K,source,equilibree,thyroide,foetal,46
+IN1K,source,equilibree,thyroide,cardiaque,0
+IN1K,source,equilibree,thyroide,thyroide,778
+IN1K,source,equilibree,thyroide,sein,76
+IN1K,source,equilibree,sein,foetal,71
+IN1K,source,equilibree,sein,cardiaque,1
+IN1K,source,equilibree,sein,thyroide,116
+IN1K,source,equilibree,sein,sein,968
+IN1K,source,brute,foetal,foetal,1433
+IN1K,source,brute,foetal,cardiaque,245
+IN1K,source,brute,foetal,thyroide,111
+IN1K,source,brute,foetal,sein,11
+IN1K,source,brute,cardiaque,foetal,693
+IN1K,source,brute,cardiaque,cardiaque,811
+IN1K,source,brute,cardiaque,thyroide,143
+IN1K,source,brute,cardiaque,sein,153
+IN1K,source,brute,thyroide,foetal,49
+IN1K,source,brute,thyroide,cardiaque,1
+IN1K,source,brute,thyroide,thyroide,771
+IN1K,source,brute,thyroide,sein,79
+IN1K,source,brute,sein,foetal,62
+IN1K,source,brute,sein,cardiaque,1
+IN1K,source,brute,sein,thyroide,111
+IN1K,source,brute,sein,sein,982
+DINOv2,image,equilibree,foetal,foetal,539
+DINOv2,image,equilibree,foetal,cardiaque,1
+DINOv2,image,equilibree,foetal,thyroide,0
+DINOv2,image,equilibree,foetal,sein,0
+DINOv2,image,equilibree,cardiaque,foetal,0
+DINOv2,image,equilibree,cardiaque,cardiaque,540
+DINOv2,image,equilibree,cardiaque,thyroide,0
+DINOv2,image,equilibree,cardiaque,sein,0
+DINOv2,image,equilibree,thyroide,foetal,0
+DINOv2,image,equilibree,thyroide,cardiaque,0
+DINOv2,image,equilibree,thyroide,thyroide,262
+DINOv2,image,equilibree,thyroide,sein,8
+DINOv2,image,equilibree,sein,foetal,0
+DINOv2,image,equilibree,sein,cardiaque,0
+DINOv2,image,equilibree,sein,thyroide,8
+DINOv2,image,equilibree,sein,sein,339
+DINOv2,image,brute,foetal,foetal,539
+DINOv2,image,brute,foetal,cardiaque,1
+DINOv2,image,brute,foetal,thyroide,0
+DINOv2,image,brute,foetal,sein,0
+DINOv2,image,brute,cardiaque,foetal,0
+DINOv2,image,brute,cardiaque,cardiaque,540
+DINOv2,image,brute,cardiaque,thyroide,0
+DINOv2,image,brute,cardiaque,sein,0
+DINOv2,image,brute,thyroide,foetal,0
+DINOv2,image,brute,thyroide,cardiaque,0
+DINOv2,image,brute,thyroide,thyroide,263
+DINOv2,image,brute,thyroide,sein,7
+DINOv2,image,brute,sein,foetal,0
+DINOv2,image,brute,sein,cardiaque,0
+DINOv2,image,brute,sein,thyroide,7
+DINOv2,image,brute,sein,sein,340
+DINOv2,source,equilibree,foetal,foetal,1542
+DINOv2,source,equilibree,foetal,cardiaque,127
+DINOv2,source,equilibree,foetal,thyroide,70
+DINOv2,source,equilibree,foetal,sein,61
+DINOv2,source,equilibree,cardiaque,foetal,738
+DINOv2,source,equilibree,cardiaque,cardiaque,795
+DINOv2,source,equilibree,cardiaque,thyroide,7
+DINOv2,source,equilibree,cardiaque,sein,260
+DINOv2,source,equilibree,thyroide,foetal,75
+DINOv2,source,equilibree,thyroide,cardiaque,1
+DINOv2,source,equilibree,thyroide,thyroide,730
+DINOv2,source,equilibree,thyroide,sein,94
+DINOv2,source,equilibree,sein,foetal,10
+DINOv2,source,equilibree,sein,cardiaque,0
+DINOv2,source,equilibree,sein,thyroide,130
+DINOv2,source,equilibree,sein,sein,1016
+DINOv2,source,brute,foetal,foetal,1497
+DINOv2,source,brute,foetal,cardiaque,149
+DINOv2,source,brute,foetal,thyroide,90
+DINOv2,source,brute,foetal,sein,64
+DINOv2,source,brute,cardiaque,foetal,714
+DINOv2,source,brute,cardiaque,cardiaque,829
+DINOv2,source,brute,cardiaque,thyroide,6
+DINOv2,source,brute,cardiaque,sein,251
+DINOv2,source,brute,thyroide,foetal,66
+DINOv2,source,brute,thyroide,cardiaque,2
+DINOv2,source,brute,thyroide,thyroide,745
+DINOv2,source,brute,thyroide,sein,87
+DINOv2,source,brute,sein,foetal,8
+DINOv2,source,brute,sein,cardiaque,0
+DINOv2,source,brute,sein,thyroide,143
+DINOv2,source,brute,sein,sein,1005
+A0 ep100,image,equilibree,foetal,foetal,534
+A0 ep100,image,equilibree,foetal,cardiaque,3
+A0 ep100,image,equilibree,foetal,thyroide,0
+A0 ep100,image,equilibree,foetal,sein,3
+A0 ep100,image,equilibree,cardiaque,foetal,1
+A0 ep100,image,equilibree,cardiaque,cardiaque,539
+A0 ep100,image,equilibree,cardiaque,thyroide,0
+A0 ep100,image,equilibree,cardiaque,sein,0
+A0 ep100,image,equilibree,thyroide,foetal,0
+A0 ep100,image,equilibree,thyroide,cardiaque,1
+A0 ep100,image,equilibree,thyroide,thyroide,265
+A0 ep100,image,equilibree,thyroide,sein,4
+A0 ep100,image,equilibree,sein,foetal,1
+A0 ep100,image,equilibree,sein,cardiaque,0
+A0 ep100,image,equilibree,sein,thyroide,6
+A0 ep100,image,equilibree,sein,sein,340
+A0 ep100,image,brute,foetal,foetal,534
+A0 ep100,image,brute,foetal,cardiaque,3
+A0 ep100,image,brute,foetal,thyroide,0
+A0 ep100,image,brute,foetal,sein,3
+A0 ep100,image,brute,cardiaque,foetal,1
+A0 ep100,image,brute,cardiaque,cardiaque,539
+A0 ep100,image,brute,cardiaque,thyroide,0
+A0 ep100,image,brute,cardiaque,sein,0
+A0 ep100,image,brute,thyroide,foetal,0
+A0 ep100,image,brute,thyroide,cardiaque,1
+A0 ep100,image,brute,thyroide,thyroide,265
+A0 ep100,image,brute,thyroide,sein,4
+A0 ep100,image,brute,sein,foetal,1
+A0 ep100,image,brute,sein,cardiaque,0
+A0 ep100,image,brute,sein,thyroide,6
+A0 ep100,image,brute,sein,sein,340
+A0 ep100,source,equilibree,foetal,foetal,1386
+A0 ep100,source,equilibree,foetal,cardiaque,262
+A0 ep100,source,equilibree,foetal,thyroide,60
+A0 ep100,source,equilibree,foetal,sein,92
+A0 ep100,source,equilibree,cardiaque,foetal,980
+A0 ep100,source,equilibree,cardiaque,cardiaque,569
+A0 ep100,source,equilibree,cardiaque,thyroide,239
+A0 ep100,source,equilibree,cardiaque,sein,12
+A0 ep100,source,equilibree,thyroide,foetal,86
+A0 ep100,source,equilibree,thyroide,cardiaque,8
+A0 ep100,source,equilibree,thyroide,thyroide,699
+A0 ep100,source,equilibree,thyroide,sein,107
+A0 ep100,source,equilibree,sein,foetal,38
+A0 ep100,source,equilibree,sein,cardiaque,2
+A0 ep100,source,equilibree,sein,thyroide,163
+A0 ep100,source,equilibree,sein,sein,953
+A0 ep100,source,brute,foetal,foetal,1383
+A0 ep100,source,brute,foetal,cardiaque,271
+A0 ep100,source,brute,foetal,thyroide,59
+A0 ep100,source,brute,foetal,sein,87
+A0 ep100,source,brute,cardiaque,foetal,1017
+A0 ep100,source,brute,cardiaque,cardiaque,548
+A0 ep100,source,brute,cardiaque,thyroide,224
+A0 ep100,source,brute,cardiaque,sein,11
+A0 ep100,source,brute,thyroide,foetal,84
+A0 ep100,source,brute,thyroide,cardiaque,8
+A0 ep100,source,brute,thyroide,thyroide,695
+A0 ep100,source,brute,thyroide,sein,113
+A0 ep100,source,brute,sein,foetal,43
+A0 ep100,source,brute,sein,cardiaque,2
+A0 ep100,source,brute,sein,thyroide,169
+A0 ep100,source,brute,sein,sein,942
+A0 ep200,image,equilibree,foetal,foetal,537
+A0 ep200,image,equilibree,foetal,cardiaque,2
+A0 ep200,image,equilibree,foetal,thyroide,0
+A0 ep200,image,equilibree,foetal,sein,1
+A0 ep200,image,equilibree,cardiaque,foetal,1
+A0 ep200,image,equilibree,cardiaque,cardiaque,539
+A0 ep200,image,equilibree,cardiaque,thyroide,0
+A0 ep200,image,equilibree,cardiaque,sein,0
+A0 ep200,image,equilibree,thyroide,foetal,1
+A0 ep200,image,equilibree,thyroide,cardiaque,0
+A0 ep200,image,equilibree,thyroide,thyroide,263
+A0 ep200,image,equilibree,thyroide,sein,6
+A0 ep200,image,equilibree,sein,foetal,1
+A0 ep200,image,equilibree,sein,cardiaque,0
+A0 ep200,image,equilibree,sein,thyroide,6
+A0 ep200,image,equilibree,sein,sein,340
+A0 ep200,image,brute,foetal,foetal,537
+A0 ep200,image,brute,foetal,cardiaque,2
+A0 ep200,image,brute,foetal,thyroide,0
+A0 ep200,image,brute,foetal,sein,1
+A0 ep200,image,brute,cardiaque,foetal,1
+A0 ep200,image,brute,cardiaque,cardiaque,539
+A0 ep200,image,brute,cardiaque,thyroide,0
+A0 ep200,image,brute,cardiaque,sein,0
+A0 ep200,image,brute,thyroide,foetal,1
+A0 ep200,image,brute,thyroide,cardiaque,0
+A0 ep200,image,brute,thyroide,thyroide,263
+A0 ep200,image,brute,thyroide,sein,6
+A0 ep200,image,brute,sein,foetal,1
+A0 ep200,image,brute,sein,cardiaque,0
+A0 ep200,image,brute,sein,thyroide,6
+A0 ep200,image,brute,sein,sein,340
+A0 ep200,source,equilibree,foetal,foetal,1360
+A0 ep200,source,equilibree,foetal,cardiaque,239
+A0 ep200,source,equilibree,foetal,thyroide,105
+A0 ep200,source,equilibree,foetal,sein,96
+A0 ep200,source,equilibree,cardiaque,foetal,979
+A0 ep200,source,equilibree,cardiaque,cardiaque,601
+A0 ep200,source,equilibree,cardiaque,thyroide,214
+A0 ep200,source,equilibree,cardiaque,sein,6
+A0 ep200,source,equilibree,thyroide,foetal,106
+A0 ep200,source,equilibree,thyroide,cardiaque,1
+A0 ep200,source,equilibree,thyroide,thyroide,675
+A0 ep200,source,equilibree,thyroide,sein,118
+A0 ep200,source,equilibree,sein,foetal,43
+A0 ep200,source,equilibree,sein,cardiaque,1
+A0 ep200,source,equilibree,sein,thyroide,168
+A0 ep200,source,equilibree,sein,sein,944
+A0 ep200,source,brute,foetal,foetal,1355
+A0 ep200,source,brute,foetal,cardiaque,248
+A0 ep200,source,brute,foetal,thyroide,110
+A0 ep200,source,brute,foetal,sein,87
+A0 ep200,source,brute,cardiaque,foetal,1043
+A0 ep200,source,brute,cardiaque,cardiaque,562
+A0 ep200,source,brute,cardiaque,thyroide,191
+A0 ep200,source,brute,cardiaque,sein,4
+A0 ep200,source,brute,thyroide,foetal,108
+A0 ep200,source,brute,thyroide,cardiaque,1
+A0 ep200,source,brute,thyroide,thyroide,665
+A0 ep200,source,brute,thyroide,sein,126
+A0 ep200,source,brute,sein,foetal,44
+A0 ep200,source,brute,sein,cardiaque,3
+A0 ep200,source,brute,sein,thyroide,169
+A0 ep200,source,brute,sein,sein,940
+A0 ep300,image,equilibree,foetal,foetal,535
+A0 ep300,image,equilibree,foetal,cardiaque,3
+A0 ep300,image,equilibree,foetal,thyroide,0
+A0 ep300,image,equilibree,foetal,sein,2
+A0 ep300,image,equilibree,cardiaque,foetal,3
+A0 ep300,image,equilibree,cardiaque,cardiaque,537
+A0 ep300,image,equilibree,cardiaque,thyroide,0
+A0 ep300,image,equilibree,cardiaque,sein,0
+A0 ep300,image,equilibree,thyroide,foetal,1
+A0 ep300,image,equilibree,thyroide,cardiaque,0
+A0 ep300,image,equilibree,thyroide,thyroide,263
+A0 ep300,image,equilibree,thyroide,sein,6
+A0 ep300,image,equilibree,sein,foetal,2
+A0 ep300,image,equilibree,sein,cardiaque,0
+A0 ep300,image,equilibree,sein,thyroide,7
+A0 ep300,image,equilibree,sein,sein,338
+A0 ep300,image,brute,foetal,foetal,537
+A0 ep300,image,brute,foetal,cardiaque,2
+A0 ep300,image,brute,foetal,thyroide,0
+A0 ep300,image,brute,foetal,sein,1
+A0 ep300,image,brute,cardiaque,foetal,3
+A0 ep300,image,brute,cardiaque,cardiaque,537
+A0 ep300,image,brute,cardiaque,thyroide,0
+A0 ep300,image,brute,cardiaque,sein,0
+A0 ep300,image,brute,thyroide,foetal,1
+A0 ep300,image,brute,thyroide,cardiaque,0
+A0 ep300,image,brute,thyroide,thyroide,263
+A0 ep300,image,brute,thyroide,sein,6
+A0 ep300,image,brute,sein,foetal,2
+A0 ep300,image,brute,sein,cardiaque,0
+A0 ep300,image,brute,sein,thyroide,7
+A0 ep300,image,brute,sein,sein,338
+A0 ep300,source,equilibree,foetal,foetal,1315
+A0 ep300,source,equilibree,foetal,cardiaque,259
+A0 ep300,source,equilibree,foetal,thyroide,144
+A0 ep300,source,equilibree,foetal,sein,82
+A0 ep300,source,equilibree,cardiaque,foetal,848
+A0 ep300,source,equilibree,cardiaque,cardiaque,648
+A0 ep300,source,equilibree,cardiaque,thyroide,274
+A0 ep300,source,equilibree,cardiaque,sein,30
+A0 ep300,source,equilibree,thyroide,foetal,90
+A0 ep300,source,equilibree,thyroide,cardiaque,6
+A0 ep300,source,equilibree,thyroide,thyroide,703
+A0 ep300,source,equilibree,thyroide,sein,101
+A0 ep300,source,equilibree,sein,foetal,50
+A0 ep300,source,equilibree,sein,cardiaque,4
+A0 ep300,source,equilibree,sein,thyroide,173
+A0 ep300,source,equilibree,sein,sein,929
+A0 ep300,source,brute,foetal,foetal,1322
+A0 ep300,source,brute,foetal,cardiaque,264
+A0 ep300,source,brute,foetal,thyroide,135
+A0 ep300,source,brute,foetal,sein,79
+A0 ep300,source,brute,cardiaque,foetal,904
+A0 ep300,source,brute,cardiaque,cardiaque,594
+A0 ep300,source,brute,cardiaque,thyroide,274
+A0 ep300,source,brute,cardiaque,sein,28
+A0 ep300,source,brute,thyroide,foetal,88
+A0 ep300,source,brute,thyroide,cardiaque,6
+A0 ep300,source,brute,thyroide,thyroide,703
+A0 ep300,source,brute,thyroide,sein,103
+A0 ep300,source,brute,sein,foetal,50
+A0 ep300,source,brute,sein,cardiaque,4
+A0 ep300,source,brute,sein,thyroide,163
+A0 ep300,source,brute,sein,sein,939
+FOETAL ep50,image,equilibree,foetal,foetal,533
+FOETAL ep50,image,equilibree,foetal,cardiaque,3
+FOETAL ep50,image,equilibree,foetal,thyroide,0
+FOETAL ep50,image,equilibree,foetal,sein,4
+FOETAL ep50,image,equilibree,cardiaque,foetal,2
+FOETAL ep50,image,equilibree,cardiaque,cardiaque,537
+FOETAL ep50,image,equilibree,cardiaque,thyroide,0
+FOETAL ep50,image,equilibree,cardiaque,sein,1
+FOETAL ep50,image,equilibree,thyroide,foetal,1
+FOETAL ep50,image,equilibree,thyroide,cardiaque,0
+FOETAL ep50,image,equilibree,thyroide,thyroide,263
+FOETAL ep50,image,equilibree,thyroide,sein,6
+FOETAL ep50,image,equilibree,sein,foetal,1
+FOETAL ep50,image,equilibree,sein,cardiaque,0
+FOETAL ep50,image,equilibree,sein,thyroide,9
+FOETAL ep50,image,equilibree,sein,sein,337
+FOETAL ep50,image,brute,foetal,foetal,536
+FOETAL ep50,image,brute,foetal,cardiaque,1
+FOETAL ep50,image,brute,foetal,thyroide,0
+FOETAL ep50,image,brute,foetal,sein,3
+FOETAL ep50,image,brute,cardiaque,foetal,0
+FOETAL ep50,image,brute,cardiaque,cardiaque,539
+FOETAL ep50,image,brute,cardiaque,thyroide,0
+FOETAL ep50,image,brute,cardiaque,sein,1
+FOETAL ep50,image,brute,thyroide,foetal,1
+FOETAL ep50,image,brute,thyroide,cardiaque,0
+FOETAL ep50,image,brute,thyroide,thyroide,263
+FOETAL ep50,image,brute,thyroide,sein,6
+FOETAL ep50,image,brute,sein,foetal,1
+FOETAL ep50,image,brute,sein,cardiaque,0
+FOETAL ep50,image,brute,sein,thyroide,7
+FOETAL ep50,image,brute,sein,sein,339
+FOETAL ep50,source,equilibree,foetal,foetal,1358
+FOETAL ep50,source,equilibree,foetal,cardiaque,252
+FOETAL ep50,source,equilibree,foetal,thyroide,86
+FOETAL ep50,source,equilibree,foetal,sein,104
+FOETAL ep50,source,equilibree,cardiaque,foetal,1023
+FOETAL ep50,source,equilibree,cardiaque,cardiaque,741
+FOETAL ep50,source,equilibree,cardiaque,thyroide,12
+FOETAL ep50,source,equilibree,cardiaque,sein,24
+FOETAL ep50,source,equilibree,thyroide,foetal,94
+FOETAL ep50,source,equilibree,thyroide,cardiaque,5
+FOETAL ep50,source,equilibree,thyroide,thyroide,651
+FOETAL ep50,source,equilibree,thyroide,sein,150
+FOETAL ep50,source,equilibree,sein,foetal,44
+FOETAL ep50,source,equilibree,sein,cardiaque,2
+FOETAL ep50,source,equilibree,sein,thyroide,199
+FOETAL ep50,source,equilibree,sein,sein,911
+FOETAL ep50,source,brute,foetal,foetal,1359
+FOETAL ep50,source,brute,foetal,cardiaque,265
+FOETAL ep50,source,brute,foetal,thyroide,74
+FOETAL ep50,source,brute,foetal,sein,102
+FOETAL ep50,source,brute,cardiaque,foetal,1072
+FOETAL ep50,source,brute,cardiaque,cardiaque,700
+FOETAL ep50,source,brute,cardiaque,thyroide,9
+FOETAL ep50,source,brute,cardiaque,sein,19
+FOETAL ep50,source,brute,thyroide,foetal,98
+FOETAL ep50,source,brute,thyroide,cardiaque,5
+FOETAL ep50,source,brute,thyroide,thyroide,648
+FOETAL ep50,source,brute,thyroide,sein,149
+FOETAL ep50,source,brute,sein,foetal,47
+FOETAL ep50,source,brute,sein,cardiaque,2
+FOETAL ep50,source,brute,sein,thyroide,199
+FOETAL ep50,source,brute,sein,sein,908
+FOETAL ep100,image,equilibree,foetal,foetal,536
+FOETAL ep100,image,equilibree,foetal,cardiaque,1
+FOETAL ep100,image,equilibree,foetal,thyroide,1
+FOETAL ep100,image,equilibree,foetal,sein,2
+FOETAL ep100,image,equilibree,cardiaque,foetal,1
+FOETAL ep100,image,equilibree,cardiaque,cardiaque,539
+FOETAL ep100,image,equilibree,cardiaque,thyroide,0
+FOETAL ep100,image,equilibree,cardiaque,sein,0
+FOETAL ep100,image,equilibree,thyroide,foetal,1
+FOETAL ep100,image,equilibree,thyroide,cardiaque,0
+FOETAL ep100,image,equilibree,thyroide,thyroide,262
+FOETAL ep100,image,equilibree,thyroide,sein,7
+FOETAL ep100,image,equilibree,sein,foetal,0
+FOETAL ep100,image,equilibree,sein,cardiaque,0
+FOETAL ep100,image,equilibree,sein,thyroide,5
+FOETAL ep100,image,equilibree,sein,sein,342
+FOETAL ep100,image,brute,foetal,foetal,536
+FOETAL ep100,image,brute,foetal,cardiaque,1
+FOETAL ep100,image,brute,foetal,thyroide,1
+FOETAL ep100,image,brute,foetal,sein,2
+FOETAL ep100,image,brute,cardiaque,foetal,1
+FOETAL ep100,image,brute,cardiaque,cardiaque,539
+FOETAL ep100,image,brute,cardiaque,thyroide,0
+FOETAL ep100,image,brute,cardiaque,sein,0
+FOETAL ep100,image,brute,thyroide,foetal,1
+FOETAL ep100,image,brute,thyroide,cardiaque,0
+FOETAL ep100,image,brute,thyroide,thyroide,262
+FOETAL ep100,image,brute,thyroide,sein,7
+FOETAL ep100,image,brute,sein,foetal,1
+FOETAL ep100,image,brute,sein,cardiaque,0
+FOETAL ep100,image,brute,sein,thyroide,5
+FOETAL ep100,image,brute,sein,sein,341
+FOETAL ep100,source,equilibree,foetal,foetal,1278
+FOETAL ep100,source,equilibree,foetal,cardiaque,307
+FOETAL ep100,source,equilibree,foetal,thyroide,110
+FOETAL ep100,source,equilibree,foetal,sein,105
+FOETAL ep100,source,equilibree,cardiaque,foetal,1037
+FOETAL ep100,source,equilibree,cardiaque,cardiaque,598
+FOETAL ep100,source,equilibree,cardiaque,thyroide,148
+FOETAL ep100,source,equilibree,cardiaque,sein,17
+FOETAL ep100,source,equilibree,thyroide,foetal,69
+FOETAL ep100,source,equilibree,thyroide,cardiaque,4
+FOETAL ep100,source,equilibree,thyroide,thyroide,706
+FOETAL ep100,source,equilibree,thyroide,sein,121
+FOETAL ep100,source,equilibree,sein,foetal,44
+FOETAL ep100,source,equilibree,sein,cardiaque,1
+FOETAL ep100,source,equilibree,sein,thyroide,174
+FOETAL ep100,source,equilibree,sein,sein,937
+FOETAL ep100,source,brute,foetal,foetal,1301
+FOETAL ep100,source,brute,foetal,cardiaque,313
+FOETAL ep100,source,brute,foetal,thyroide,87
+FOETAL ep100,source,brute,foetal,sein,99
+FOETAL ep100,source,brute,cardiaque,foetal,1103
+FOETAL ep100,source,brute,cardiaque,cardiaque,549
+FOETAL ep100,source,brute,cardiaque,thyroide,131
+FOETAL ep100,source,brute,cardiaque,sein,17
+FOETAL ep100,source,brute,thyroide,foetal,68
+FOETAL ep100,source,brute,thyroide,cardiaque,5
+FOETAL ep100,source,brute,thyroide,thyroide,706
+FOETAL ep100,source,brute,thyroide,sein,121
+FOETAL ep100,source,brute,sein,foetal,46
+FOETAL ep100,source,brute,sein,cardiaque,1
+FOETAL ep100,source,brute,sein,thyroide,162
+FOETAL ep100,source,brute,sein,sein,947

@@ -1,0 +1,4 @@
+Fold,Held-out sources (family in brackets when grouped),fetal images,cardiac images,thyroid images,breast images,Total images
+0,BUSI_WHU; CAMUS; FE1_FetalEcho_T1 [FetalEcho]; FE2_FetalEcho_T2 [FetalEcho]; Hou_Thyroid_PathDx; MF_IntrapartumVideo_Jinan,900,300,300,300,1800
+1,BUS-UCLM; BrEaST; EchoCP; EchoNet_Dynamic [EchoNet]; EchoNet_LVH [EchoNet]; EchoNet_Pediatric [EchoNet]; FetusFramework_Shenzhen; TN5000_Thyroid,300,1200,300,556,2356
+2,BUS_UC; CardiacUDC; FETAL_ABDO_STRUCT; TG3K_TN3K; perso,600,300,300,300,1500

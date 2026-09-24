@@ -1,0 +1,2 @@
+condition,baseline,exactitude,exactitude_equilibree,f1_macro,rappel_foetal,rappel_cardiaque,rappel_thyroide,rappel_sein
+image_cv,classe_majoritaire,0.31824611032531824,0.25,0.12070815450643776,0.0,1.0,0.0,0.0

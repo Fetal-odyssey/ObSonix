@@ -1,0 +1,33 @@
+# S1 : plan d échantillonnage
+
+Images tirées : 5656 ; sources : 19 ; catégories : ['foetal', 'cardiaque', 'thyroide', 'sein']
+Plafond par cellule : 300 ; minimum par cellule : 20 ; plis : 3
+
+Effectifs par pli (test) et catégorie :
+|   pli |   cardiaque |   foetal |   sein |   thyroide |
+|------:|------------:|---------:|-------:|-----------:|
+|     0 |         300 |      900 |    300 |        300 |
+|     1 |        1200 |      300 |    556 |        300 |
+|     2 |         300 |      600 |    300 |        300 |
+
+Sources par pli :
+                   source                    groupe  pli categories  n_images  n_images_corpus
+                 BUSI_WHU                  BUSI_WHU    0       sein       300              927
+                    CAMUS                     CAMUS    0  cardiaque       300             1699
+         FE1_FetalEcho_T1                 FetalEcho    0     foetal       300             6672
+         FE2_FetalEcho_T2                 FetalEcho    0     foetal       300              741
+       Hou_Thyroid_PathDx        Hou_Thyroid_PathDx    0   thyroide       300             8476
+MF_IntrapartumVideo_Jinan MF_IntrapartumVideo_Jinan    0     foetal       300             5223
+                 BUS-UCLM                  BUS-UCLM    1       sein       300              627
+                   BrEaST                    BrEaST    1       sein       256              256
+                   EchoCP                    EchoCP    1  cardiaque       300              363
+          EchoNet_Dynamic                   EchoNet    1  cardiaque       300            19116
+              EchoNet_LVH                   EchoNet    1  cardiaque       300            19204
+        EchoNet_Pediatric                   EchoNet    1  cardiaque       300             8752
+  FetusFramework_Shenzhen   FetusFramework_Shenzhen    1     foetal       300             1681
+           TN5000_Thyroid            TN5000_Thyroid    1   thyroide       300             4881
+                   BUS_UC                    BUS_UC    2       sein       300              812
+               CardiacUDC                CardiacUDC    2  cardiaque       300             2043
+        FETAL_ABDO_STRUCT         FETAL_ABDO_STRUCT    2     foetal       300             1563
+                TG3K_TN3K                 TG3K_TN3K    2   thyroide       300             7078
+                    perso                     perso    2     foetal       300            82289
